@@ -1,0 +1,202 @@
+/***
+ * .ace-(ThemeName provide in main.js)
+ */
+.ace-roblox-dark {
+  color: #ccc;
+  background-color: #252525;
+  /**
+   * keywords
+   * for example if else 
+   * ID in css
+   */
+  /**
+   * Don't change indent guide 
+   */
+  /**
+   * All the highlight rules bellow require extra syntax highlight plugin
+  **/
+}
+
+.ace-roblox-dark .ace_gutter {
+  color: #909194;
+}
+
+.ace-roblox-dark .ace_gutter-active-line {
+  color: #ccc;
+}
+
+.ace-roblox-dark .ace_print-margin {
+  width: 1px;
+  background: #2d363f;
+}
+
+.ace-roblox-dark .ace_cursor {
+  color: #efae31;
+}
+
+.ace-roblox-dark .ace_marker-layer .ace_selection {
+  background: #063e63;
+  border-radius: 0;
+}
+
+.ace-roblox-dark .ace_multiselect .ace_selection.ace_start {
+  box-shadow: 0 0 3px black;
+}
+
+.ace-roblox-dark .ace_marker-layer .ace_step {
+  background: #c6dbae;
+}
+
+.ace-roblox-dark .ace_marker-layer .ace_bracket {
+  margin: -1px 0 0 -1px;
+  border: 1px solid #F8F8F0;
+}
+
+.ace-roblox-dark .ace_marker-layer .ace_active-line {
+  border: 1px solid #3a424a;
+  box-sizing: border-box;
+}
+
+.ace-roblox-dark .ace_marker-layer .ace_selected-word {
+  background-color: rgba(125, 81, 64, 0.8);
+}
+
+.ace-roblox-dark .ace_invisible {
+  color: #52524d;
+}
+
+.ace-roblox-dark .hljs-keyword,
+.ace-roblox-dark .ace_keyword {
+  color: #f472b6;
+}
+
+.ace-roblox-dark .ace_keyword.ace_operator {
+  color: #ddd;
+}
+
+.ace-roblox-dark .ace_constant.ace_language {
+  color: #bd93f9;
+}
+
+.ace-roblox-dark .ace_constant.ace_numeric {
+  color: #c3e8d1;
+}
+
+.ace-roblox-dark .ace_constant.ace_character {
+  color: #bd93f9;
+}
+
+.ace-roblox-dark .ace_constant.ace_character.ace_escape {
+  color: #ff79c6;
+}
+
+.ace-roblox-dark .ace_constant.ace_other {
+  color: #bd93f9;
+}
+
+.ace-roblox-dark .hljs-title,
+.ace-roblox-dark .ace_identifier {
+  color: #aef1ff;
+}
+
+.ace-roblox-dark .ace_support.ace_function {
+  color: #fff8d3;
+}
+
+.ace-roblox-dark .ace_support.ace_function.ace_dom {
+  color: #fff8d3;
+}
+
+.ace-roblox-dark .ace_support.ace_constant {
+  color: #ce9178;
+}
+
+.ace-roblox-dark .ace_class {
+  color: #1edac1;
+}
+
+.ace-roblox-dark .ace_variable.ace_language {
+  color: #aef1ff;
+}
+
+.ace-roblox-dark .ace_support.ace_type {
+  color: #aef1ff;
+}
+
+.ace-roblox-dark .ace_meta.ace_tag {
+  color: #57afff;
+}
+
+.ace-roblox-dark .ace_storage,
+.ace-roblox-dark .ace_storage.ace_type {
+  color: #57afff;
+}
+
+.ace-roblox-dark .ace_invalid {
+  color: #F8F8F0;
+  background-color: #ff79c6;
+}
+
+.ace-roblox-dark .ace_invalid.ace_deprecated {
+  color: #F8F8F0;
+  background-color: #bd93f9;
+}
+
+.ace-roblox-dark .ace_string {
+  color: #ce9178;
+}
+
+.ace-roblox-dark .ace_comment {
+  color: #6A9955;
+}
+
+.ace-roblox-dark .ace_variable {
+  color: #d7ba7d;
+}
+
+.ace-roblox-dark .ace_constant {
+  color: #d7ba7d;
+}
+
+.ace-roblox-dark .hljs-params,
+.ace-roblox-dark .ace_variable.ace_parameter {
+  color: #aef1ff;
+}
+
+.ace-roblox-dark .ace_entity.ace_other.ace_attribute-name {
+  color: #aef1ff;
+}
+
+.ace-roblox-dark .ace_xml-pe.ace_xml,
+.ace-roblox-dark .ace_punctuation.ace_tag {
+  color: #999;
+}
+
+.ace-roblox-dark .ace_tag-name.ace_tag,
+.ace-roblox-dark .ace_entity.ace_name.ace_tag {
+  color: #57afff;
+}
+
+.ace-roblox-dark .ace_paren {
+  color: gold;
+}
+
+.ace-roblox-dark .ace_indent-guide {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWPQ09NrYAgMjP4PAAtGAwchHMyAAAAAAElFTkSuQmCC) right repeat-y;
+}
+
+.ace-roblox-dark .ace_indent-guide-active {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQIW2PQ1dX9zzBz5sz/ABCcBFFentLlAAAAAElFTkSuQmCC) right repeat-y;
+}
+
+.ace-roblox-dark .ace_support.ace_constant.ace_js {
+  color: #A6FFBD;
+}
+
+.ace-roblox-dark .ace_entity.ace_name.ace_function {
+  color: #fff8d3;
+}
+
+.ace-roblox-dark .ace_support.ace_constant.ace_css-in-js {
+  color: #2FC7B6;
+}
