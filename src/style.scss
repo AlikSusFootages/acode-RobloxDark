@@ -119,13 +119,13 @@
   
   //in js -> addEventListener etc
   .ace_support.ace_function.ace_dom {
-     color: #fff8d3; // if not provided it will take color of ace_support.ace_function
+     color: rgb(253, 251, 172); // if not provided it will take color of ace_support.ace_function
   }
   
   // in js style, length etc
   // in css auto, inset, inline-block etc
   .ace_support.ace_constant {
-    color: #ce9178
+    color: rgb(131, 241, 132)
   }
   
   // in js any variable or import starting with uppercase
@@ -167,12 +167,12 @@
   
   // string
   .ace_string {
-    color: #ce9178
+    color: rgb(131, 241, 132)
   }
   
   // comment
   .ace_comment {
-    color: #6A9955;
+    color: rgb(106, 153, 85);
   }
   
   // .class name in css
@@ -191,12 +191,12 @@
   // function parameters (abc) =>
   .hljs-params,
   .ace_variable.ace_parameter {
-    color: #aef1ff
+    color: #ccc
   }
   
   // attribute name in html
   .ace_entity.ace_other.ace_attribute-name {
-    color: #aef1ff
+    color: #ccc
   }
   
   // <> in html
