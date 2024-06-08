@@ -73,7 +73,7 @@
    */
   .hljs-keyword,
   .ace_keyword {
-    color: #f472b6
+    color: rgb(248, 109, 124)
   }
   
   // example =
@@ -83,25 +83,25 @@
   
   
   .ace_constant.ace_language {
-    color: #bd93f9
+    color: rgb(255, 198, 0))
   }
   
   // numbers 
   .ace_constant.ace_numeric {
-    color: #c3e8d1
+    color: rgb(255, 198, 0)
   }
   
   .ace_constant.ace_character {
-    color: #bd93f9
+    color: rgb(255, 198, 0)
   }
   
   .ace_constant.ace_character.ace_escape {
-    color: #ff79c6
+    color: rgb(248, 109, 124);
   }
   
   // excape in regex
   .ace_constant.ace_other {
-    color: #bd93f9
+    color: rgb(255, 198, 0))
   }
   
   
@@ -109,7 +109,7 @@
   // abc will have the color
   .hljs-title,
   .ace_identifier {
-    color: #aef1ff
+    color: #ccc
   }
   
   // url() attr() in css
