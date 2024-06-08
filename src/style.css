@@ -104,11 +104,11 @@
 }
 
 .ace-roblox-dark .ace_support.ace_function.ace_dom {
-  color: #fff8d3;
+  color: #fdfbac;
 }
 
 .ace-roblox-dark .ace_support.ace_constant {
-  color: #ce9178;
+  color: #83f184;
 }
 
 .ace-roblox-dark .ace_class {
@@ -143,11 +143,11 @@
 }
 
 .ace-roblox-dark .ace_string {
-  color: #ce9178;
+  color: #83f184;
 }
 
 .ace-roblox-dark .ace_comment {
-  color: #6A9955;
+  color: #6a9955;
 }
 
 .ace-roblox-dark .ace_variable {
@@ -160,11 +160,11 @@
 
 .ace-roblox-dark .hljs-params,
 .ace-roblox-dark .ace_variable.ace_parameter {
-  color: #aef1ff;
+  color: #ccc;
 }
 
 .ace-roblox-dark .ace_entity.ace_other.ace_attribute-name {
-  color: #aef1ff;
+  color: #ccc;
 }
 
 .ace-roblox-dark .ace_xml-pe.ace_xml,
